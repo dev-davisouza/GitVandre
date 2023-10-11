@@ -1,0 +1,25 @@
+Aluno: Davi Souza de Oliveira
+
+Atividade:
+
+• git commit: leva as mudanças de um ambiente local para o repositório no git, permitindo ainda a inserção de uma mensagem descritiva. Assim, a cada mudança ou      finalização de uma tarefa, a pessoa desenvolvedora pode submeter seus feitos e deixar claro para as outras pessoas o que ela fez.;
+      
+• git add:O comando "git add" é usado para incluir alterações em um repositório Git antes de fazer um commit. O "git add" é uma etapa importante no fluxo de trabalho do Git, pois permite que você escolha quais arquivos ou alterações específicas você deseja incluir no próximo commit.;
+      
+• git branch: Para trabalhar em equipe, você pode criar diferentes branches, e o git administra todas elas em paralelo para evitar problemas de versão. Então, posteriormente, com um comando que veremos, é possível unificar as ramificações.;
+      
+• git merge: Depois de programar em uma branch, você tem que fazer uma conjunção dela com outras para de fato subir as alterações. É só colocar o nome da branch que desejamos mesclar com a principal depois do termo merge.;
+      
+• git mainline: Linha principal;
+
+• git clone: A partir dele, você clona um código de um repositório para a sua máquina para então começar a trabalhar nele. Pode ser um projeto de uma pessoa da sua empresa, um projeto de colegas da faculdade ou até mesmo uma aplicação open-source para a qual você julgou interessante colaborar.;
+      
+• git push: O push serve para subir as alterações de uma ramificação para um certo repositório. Ele entrega todos os commits e a mensagem.;
+      
+• git pull: Antes de começar a programar em algum repositório, é bom também executar um “pull”. Esse comando traz para a sua máquina todas as mudanças que foram realizadas na plataforma. Ou seja, é uma forma de atualizar a sua versão da aplicação com o que foi alterado remotamente.;
+      
+• git staged: O Git é um sistema de controle de versão amplamente utilizado para acompanhar as alterações em um projeto de software. A área "staged" (ou área de preparação) no Git é onde você seleciona as mudanças que deseja incluir em seu próximo commit. O Git permite que você controle quais alterações estão prontas para serem registradas em seu histórico de versionamento, e isso é feito em três etapas: área de trabalho, área de preparação e repositório.
+      
+• git version: Ao executar o git irá retornar a versão atual do git na sua máquina.;
+      
+• git repository: Repository é a palvra em inglês para repositório. No contexto do git, repositórios são os locais onde armazenam-se todas as informações e históricos relacionados a um projeto de software. É um local centralizado onde todas as versões anteriores, atuais e futuras do código-fonte são mantidas e gerenciadas.
